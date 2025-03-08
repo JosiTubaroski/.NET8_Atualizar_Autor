@@ -14,7 +14,7 @@
 
 <img src="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/img/09_Metodos_Interface.png"/>
 
-3. Incluir os metodos no Service, selecionar <b>implementar interface</b> para atualizar os métodos
+3. Incluir os metodos na <b>AutorService</b>, selecionar <b>implementar interface</b> para atualizar os métodos
 
 <img src="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/img/10_Editar_Excluir_Autor_Service.png"/>
 
