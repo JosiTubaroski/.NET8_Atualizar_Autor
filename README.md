@@ -10,11 +10,11 @@
 
 <img src="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/img/08_AutorEdicaoDto.png"/>
 
-2. Criar os métodos EditarAutor e ExcluirAutor na classe IAutorInterface.cs
+2. Criar os métodos <b>EditarAutor</b> e <b>ExcluirAutor</b> na classe <b>IAutorInterface.cs</b>
 
 <img src="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/img/09_Metodos_Interface.png"/>
 
-3. Incluir os metodos no Service, selecionar implementar interface para atualizar os métodos
+3. Incluir os metodos no Service, selecionar <b>implementar interface</b> para atualizar os métodos
 
 <img src="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/img/10_Editar_Excluir_Autor_Service.png"/>
 
