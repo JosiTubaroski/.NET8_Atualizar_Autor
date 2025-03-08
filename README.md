@@ -18,7 +18,7 @@
 
 <img src="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/img/10_Editar_Excluir_Autor_Service.png"/>
 
-4. Desenvolver ExcluirAutor na AutorService.cs
+4. Desenvolver <b>ExcluirAutor</b> na <b>AutorService.cs</b>
 
 <img src="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/img/11_Metodo_ExcluirAutor_Service.png"/>
 
