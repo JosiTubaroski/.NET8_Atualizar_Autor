@@ -20,4 +20,5 @@
 
 4. Desenvolver ExcluirAutor na AutorService.cs
 
+<img src="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/img/11_Metodo_ExcluirAutor_Service.png"/>
 
