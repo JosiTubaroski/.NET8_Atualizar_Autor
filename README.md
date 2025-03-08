@@ -4,4 +4,6 @@
 
 <img src="https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/01_Fx_Controller_Interface_Service_2.jpg"/>
 
-# End-Point: Atualizar Autor
+# End-Point: Editar Autor / Excluir Autor
+
+1. Para editar autor vamos precisar de um novo Dto (Data Transfer Object), na Pasta Dto criar a classe 'AutorEdicaoDto.cs'
