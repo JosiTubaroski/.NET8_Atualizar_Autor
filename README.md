@@ -30,3 +30,11 @@
 
 <img src="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/img/13_Editar_Excluir_Controller.png"/>
 
+7. Executar o Projeto e Testar o Editar Autor
+
+<img src="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/img/14_Teste_EditarAutor_Request.png"/>
+
+<img src="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/img/15_Teste_EditarAutor_Response.png"/>
+
+<img src="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/img/16_EditarAutor_Response.png"/>
+
