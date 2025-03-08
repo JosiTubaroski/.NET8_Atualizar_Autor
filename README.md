@@ -22,3 +22,11 @@
 
 <img src="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/img/11_Metodo_ExcluirAutor_Service.png"/>
 
+5. Desenvolver <b>EditarAutor</b> na <b>AutorService.cs</b>
+
+<img src="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/img/12_Metodo_Editar_Service.png"/>
+
+6. Incluir os métodos <b>EditarAutor</b>, <b>ExcluirAutor</b> na <b>AutorController</b>.
+
+<img src="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/img/13_Editar_Excluir_Controller.png"/>
+
