@@ -30,7 +30,7 @@
 
 <img src="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/img/13_Editar_Excluir_Controller.png"/>
 
-7. Executar o Projeto e Testar o EditarAutor
+7. Executar o <b>Projeto</b> e Testar o <b>EditarAutor</b>
 
 <img src="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/img/14_Teste_EditarAutor_Request.png"/>
 
@@ -38,4 +38,8 @@
 
 <img src="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/img/16_EditarAutor_Response.png"/>
 
-8. Executar o Projeto e Testar o ExcluirAutor
+8. Executar o <b>Projeto</b> e Testar o <b>ExcluirAutor</b>
+
+<img src="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/img/17_ExcluirAutor_1.png"/>
+
+<img src="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/img/18_ExcluirAutor_2.png">
